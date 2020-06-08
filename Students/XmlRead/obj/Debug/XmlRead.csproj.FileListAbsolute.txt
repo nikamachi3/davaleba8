@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\Students\XmlRead\bin\Debug\XmlRead.exe.config
+C:\Users\Y\Desktop\Students\XmlRead\bin\Debug\XmlRead.exe
+C:\Users\Y\Desktop\Students\XmlRead\bin\Debug\XmlRead.pdb
+C:\Users\Y\Desktop\Students\XmlRead\obj\Debug\XmlRead.csproj.CoreCompileInputs.cache
+C:\Users\Y\Desktop\Students\XmlRead\obj\Debug\XmlRead.exe
+C:\Users\Y\Desktop\Students\XmlRead\obj\Debug\XmlRead.pdb

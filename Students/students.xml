@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Vqmni XML DOkuments-->
+<Students>
+  <s1>
+    <Firstname>Nika</Firstname>
+    <Lastname>Darchiashvili</Lastname>
+    <ID>098402198201</ID>
+  </s1>
+  <s2>
+    <Firstname>Vaso</Firstname>
+    <Lastname>Nasyidashvili</Lastname>
+    <ID>03583959939</ID>
+  </s2>
+  <s3>
+    <Firstname>Elene</Firstname>
+    <Lastname>Burjanadze</Lastname>
+    <ID>49503090935</ID>
+  </s3>
+</Students>
